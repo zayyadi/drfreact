@@ -1,0 +1,6 @@
+*drf/
+*.pyc
+*__pycache__
+*drf/Lib/
+*.vscode
+*blogapi/
